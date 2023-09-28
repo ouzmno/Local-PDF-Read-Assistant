@@ -1,4 +1,6 @@
-# Local-PDF-Read-Assistant
+# Local PDF Assistant
+
+updated 'source' settings to show complete sentences.
 
 ## Credit
 
